@@ -1,0 +1,163 @@
+.map1218-container {
+  min-height: 100vh;
+}
+.map1218-map1218 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 104, 104, 1);
+}
+.map1218-frame813720 {
+  top: 405px;
+  left: 80px;
+  width: 494px;
+  height: 213px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 69px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: rgba(218, 54, 54, 1);
+}
+.map1218-svg {
+  width: 2;
+  height: 2;
+}
+.map1218-text {
+  color: rgba(255, 255, 255, 1);
+  width: 302px;
+  height: 174px;
+  margin: 0 10px 0 0;
+  font-size: 100px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.map1218-backbutton12569 {
+  top: 18px;
+  left: 1125px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.map1218-image {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.map1218-text1 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.map1218-text2 {
+  text-align: center;
+  top: 50px;
+  left: 407px;
+  color: rgba(255, 255, 255, 1);
+  width: 626px;
+  height: 257px;
+  position: absolute;
+  font-size: 100px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.map1218-frame915370 {
+  top: 405px;
+  left: 875px;
+  width: 494px;
+  height: 213px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 69px;
+  justify-content: center;
+  background-color: rgba(0, 25, 255, 1);
+}
+.map1218-text3 {
+  color: rgba(255, 255, 255, 1);
+  width: 336px;
+  height: 95px;
+  font-size: 100px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.map1218-menubutton20985 {
+  top: 18px;
+  left: 18px;
+  position: absolute;
+
+}
+.map1218-image1 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.map1218-image2 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.map1218-image3 {
+  width: 44px;
+  height: 6px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.map1218-svg1 {
+  top: 13px;
+  left: 1343px;
+  width: 83;
+  height: 74;
+  position: absolute;
+}

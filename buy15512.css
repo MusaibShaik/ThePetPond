@@ -1,0 +1,315 @@
+.buy15512-container {
+  min-height: 100vh;
+}
+.buy15512-buy15512 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(13, 95, 255, 0.41999998688697815);
+}
+.buy15512-image {
+  top: 589px;
+  left: 29px;
+  width: 645px;
+  height: 240px;
+  position: absolute;
+  object-fit: cover;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.buy15512-image01 {
+  top: 680px;
+  left: 94px;
+  width: 461px;
+  height: 130px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.buy15512-text {
+  top: 608px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 184px;
+  height: 72px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-text01 {
+  top: 680px;
+  left: 104px;
+  color: rgba(0, 0, 0, 1);
+  width: 520px;
+  height: 113px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-image02 {
+  top: 87px;
+  left: 89px;
+  width: 447px;
+  height: 502px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 61px;
+}
+.buy15512-image03 {
+  top: 852px;
+  left: 62px;
+  width: 259px;
+  height: 109px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(253, 8, 8, 1);
+}
+.buy15512-text05 {
+  top: 874px;
+  left: 145px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: 64px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-image04 {
+  top: 852px;
+  left: 361px;
+  width: 259px;
+  height: 109px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(125, 199, 50, 1);
+}
+.buy15512-text06 {
+  top: 878px;
+  left: 370px;
+  color: rgba(255, 255, 255, 1);
+  width: 239px;
+  height: 55px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-backbutton19016 {
+  top: 0px;
+  left: 1149px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.buy15512-image05 {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.buy15512-text07 {
+  color: rgba(0, 0, 0, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-svg {
+  top: 584px;
+  left: 700px;
+  width: 704;
+  height: 243;
+  position: absolute;
+}
+.buy15512-image06 {
+  top: 676px;
+  left: 780px;
+  width: 580px;
+  height: 149px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
+.buy15512-text08 {
+  top: 672px;
+  left: 748px;
+  color: rgba(0, 0, 0, 1);
+  width: 579px;
+  height: 124px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-image07 {
+  top: 850px;
+  left: 744px;
+  width: 283px;
+  height: 111px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(253, 8, 8, 1);
+}
+.buy15512-text12 {
+  top: 887px;
+  left: 839px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: 27px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-image08 {
+  top: 850px;
+  left: 1066px;
+  width: 294px;
+  height: 111px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(125, 200, 51, 1);
+}
+.buy15512-text13 {
+  top: 881px;
+  left: 1089px;
+  color: rgba(255, 255, 255, 1);
+  width: 269px;
+  height: 24px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-text14 {
+  top: 615px;
+  left: 761px;
+  color: rgba(0, 0, 0, 1);
+  width: 247px;
+  height: 73px;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Oswald;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.buy15512-menubutton20989 {
+  top: 6px;
+  left: 19px;
+  position: absolute;
+  
+}
+.buy15512-image09 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.buy15512-image10 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.buy15512-image11 {
+  width: 44px;
+  height: 6px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.buy15512-svg1 {
+  top: -5px;
+  left: 1339px;
+  width: 83;
+  height: 74;
+  position: absolute;
+}
+.buy15512-image12 {
+  top: 73px;
+  left: 713px;
+  width: 704px;
+  height: 511px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+}

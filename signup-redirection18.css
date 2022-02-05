@@ -1,0 +1,221 @@
+.signup-redirection18-container {
+  min-height: 100vh;
+}
+.signup-redirection18-signup-redirection18 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 104, 104, 1);
+}
+.signup-redirection18-text {
+  top: 742px;
+  left: 497px;
+  color: rgba(0, 0, 0, 1);
+  width: 446px;
+  height: 79px;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-text1 {
+  top: 91px;
+  left: 475px;
+  color: rgba(255, 255, 255, 1);
+  width: 488px;
+  height: 120px;
+  position: absolute;
+  font-size: 100px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-frame312552 {
+  top: 373px;
+  left: 220px;
+  width: 100%;
+  height: 76px;
+  display: flex;
+  padding: 17px 29px;
+  position: absolute;
+  max-width: 999px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-redirection18-text2 {
+  color: rgba(0, 0, 0, 0.5);
+  width: auto;
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-frame512558 {
+  top: 473px;
+  left: 220px;
+  width: 100%;
+  height: 74px;
+  display: flex;
+  padding: 16px 24px;
+  position: absolute;
+  max-width: 999px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-redirection18-text3 {
+  color: rgba(0, 0, 0, 0.5);
+  width: auto;
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-frame212551 {
+  top: 273px;
+  left: 220px;
+  width: 100%;
+  height: 72px;
+  display: flex;
+  padding: 15px 22px;
+  position: absolute;
+  max-width: 999px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-redirection18-text4 {
+  color: rgba(0, 0, 0, 0.5);
+  width: auto;
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-signupbutton12533 {
+  top: 612px;
+  left: 468px;
+  width: 503px;
+  height: 79px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 69px;
+  background-color: rgba(6, 38, 101, 1);
+}
+.signup-redirection18-text5 {
+  color: rgba(255, 255, 255, 1);
+  width: auto;
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-loginpage12535 {
+  top: 856px;
+  left: 468px;
+  width: 503px;
+  height: 79px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(6, 38, 101, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.signup-redirection18-text6 {
+  color: rgba(6, 38, 101, 1);
+  width: auto;
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.signup-redirection18-backbutton12543 {
+  top: 28px;
+  left: 1208px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.signup-redirection18-image {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.signup-redirection18-text7 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}

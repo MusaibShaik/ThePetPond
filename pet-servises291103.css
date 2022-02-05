@@ -1,0 +1,190 @@
+.pet-servises291103-container {
+  min-height: 100vh;
+}
+.pet-servises291103-pet-servises291103 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 231, 147, 1);
+}
+.pet-servises291103-component7428152 {
+  top: 93px;
+  left: 720px;
+  width: 562px;
+  height: 796px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-servises291103-image {
+  top: 0px;
+  left: 0px;
+  width: 562px;
+  height: 737px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+}
+.pet-servises291103-image1 {
+  top: 463.6632995605469px;
+  left: 0px;
+  width: 559px;
+  height: 332px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(66, 63, 176, 1);
+}
+.pet-servises291103-text {
+  top: 565.5084228515625px;
+  left: 93.95664978027344px;
+  color: rgba(0, 0, 0, 1);
+  width: 371px;
+  height: 126px;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-servises291103-component8428155 {
+  top: 91px;
+  left: 124px;
+  width: 515px;
+  height: 792px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-servises291103-image2 {
+  top: 0px;
+  left: 0px;
+  width: 515px;
+  height: 743px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+}
+.pet-servises291103-image3 {
+  top: 456.8191223144531px;
+  left: 0px;
+  width: 512px;
+  height: 335px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(66, 63, 176, 1);
+}
+.pet-servises291103-text1 {
+  top: 559.5358276367188px;
+  left: 187.1321258544922px;
+  color: rgba(0, 0, 0, 1);
+  width: 124px;
+  height: 205px;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-servises291103-menubutton328201 {
+  top: 39px;
+  left: 56px;
+  width: 44px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.pet-servises291103-image4 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-servises291103-image5 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-servises291103-image6 {
+  width: 44px;
+  height: 6px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-servises291103-svg {
+  top: 19px;
+  left: 1357px;
+  width: 83;
+  height: 74;
+  position: absolute;
+}
+.pet-servises291103-backbutton328206 {
+  top: 24px;
+  left: 1120px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.pet-servises291103-image7 {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.pet-servises291103-text2 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}

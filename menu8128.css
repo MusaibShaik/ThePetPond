@@ -1,0 +1,106 @@
+.menu8128-container {
+  min-height: 100vh;
+}
+.menu8128-menu8128 {
+  width: 455px;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 0.800000011920929);
+}
+.menu8128-frame613714 {
+  top: 71px;
+  left: 146px;
+  width: 163px;
+  height: 79px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.menu8128-text {
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.menu8128-frame713716 {
+  top: 219px;
+  left: 95px;
+  width: 254px;
+  height: 79px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.menu8128-text1 {
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.menu8128-text2 {
+  top: 375px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  width: 265px;
+  height: 112px;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.menu8128-text3 {
+  top: 585px;
+  left: 54px;
+  color: rgba(0, 0, 0, 1);
+  width: 322px;
+  height: 85px;
+  position: absolute;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.menu8128-image {
+  top: 18px;
+  left: 360px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}

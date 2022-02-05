@@ -1,0 +1,295 @@
+.pet-sitting332112-container {
+  min-height: 100vh;
+}
+.pet-sitting332112-pet-sitting332112 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(248, 165, 240, 1);
+}
+.pet-sitting332112-text {
+  top: 31px;
+  left: 466px;
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-image {
+  top: 127px;
+  left: 40px;
+  width: 1335px;
+  height: 257px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-sitting332112-text01 {
+  top: 162px;
+  left: 95px;
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-image01 {
+  top: 412px;
+  left: 57px;
+  width: 208px;
+  height: 204px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 55px;
+}
+.pet-sitting332112-image02 {
+  top: 412px;
+  left: 293px;
+  width: 350px;
+  height: 63px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(105, 200, 206, 1);
+}
+.pet-sitting332112-text09 {
+  top: 420px;
+  left: 308px;
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-image03 {
+  top: 488px;
+  left: 287px;
+  width: 359px;
+  height: 358px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(105, 200, 206, 1);
+}
+.pet-sitting332112-text10 {
+  top: 526px;
+  left: 302px;
+  color: rgba(0, 0, 0, 1);
+  width: 341px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-image04 {
+  top: 412px;
+  left: 740px;
+  width: 208px;
+  height: 204px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 55px;
+}
+.pet-sitting332112-image05 {
+  top: 412px;
+  left: 976px;
+  width: 350px;
+  height: 63px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(105, 200, 206, 1);
+}
+.pet-sitting332112-text24 {
+  top: 420px;
+  left: 991px;
+  color: rgba(0, 0, 0, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-image06 {
+  top: 488px;
+  left: 970px;
+  width: 359px;
+  height: 358px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(105, 200, 206, 1);
+}
+.pet-sitting332112-text25 {
+  top: 543px;
+  left: 988px;
+  color: rgba(0, 0, 0, 1);
+  width: 341px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-menubutton332134 {
+  top: 31px;
+  left: 35px;
+  width: 44px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.pet-sitting332112-image07 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-sitting332112-image08 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-sitting332112-image09 {
+  width: 44px;
+  height: 6px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pet-sitting332112-backbutton332138 {
+  top: 21px;
+  left: 1097px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.pet-sitting332112-image10 {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.pet-sitting332112-text39 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-backbutton332221 {
+  top: 21px;
+  left: 1097px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.pet-sitting332112-image11 {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.pet-sitting332112-text40 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.pet-sitting332112-svg {
+  top: 16px;
+  left: 1326px;
+  width: 83;
+  height: 74;
+  position: absolute;
+}

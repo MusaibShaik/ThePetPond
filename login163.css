@@ -1,0 +1,165 @@
+.login163-container {
+  min-height: 100vh;
+}
+.login163-login163 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1428px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 104, 104, 1);
+}
+.login163-text {
+  top: 356px;
+  left: 250px;
+  color: rgba(255, 255, 255, 1);
+  width: 169px;
+  height: 156px;
+  display: none;
+  position: absolute;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.login163-frame512554 {
+  top: 325px;
+  left: 214px;
+  width: 100%;
+  height: 72px;
+  display: flex;
+  padding: 15px 22px;
+  position: absolute;
+  max-width: 999px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login163-text1 {
+  color: rgba(0, 0, 0, 0.5);
+  width: auto;
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.login163-signupbutton12561 {
+  top: 654px;
+  left: 462px;
+  width: 503px;
+  height: 79px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 69px;
+  background-color: rgba(6, 38, 101, 1);
+}
+.login163-text2 {
+  color: rgba(255, 255, 255, 1);
+  width: auto;
+  height: auto;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.login163-text3 {
+  top: 100px;
+  left: 470px;
+  color: rgba(255, 255, 255, 1);
+  width: 488px;
+  height: 120px;
+  position: absolute;
+  font-size: 100px;
+  align-self: auto;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: normal;
+  text-align: center;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.login163-frame512556 {
+  top: 438px;
+  left: 214px;
+  width: 100%;
+  height: 74px;
+  display: flex;
+  padding: 16px 24px;
+  position: absolute;
+  max-width: 999px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 69px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.login163-text4 {
+  color: rgba(0, 0, 0, 0.5);
+  width: auto;
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.login163-backbutton12545 {
+  top: 17px;
+  left: 1196px;
+  width: 232px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.login163-image {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.login163-text5 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
