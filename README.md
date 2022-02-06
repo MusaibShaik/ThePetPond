@@ -22,7 +22,8 @@ login page
 ![image](https://user-images.githubusercontent.com/98686183/152651962-0a9943b5-265e-4847-b841-92fc4457eb8a.png)
 mainmenu
 
-![image](https://user-images.githubusercontent.com/98686183/152669941-4117498e-1370-4fb4-8932-b21213d3396a.png)sellers or shops
+![image](https://user-images.githubusercontent.com/98686183/152671316-ca54b96f-813c-4d2d-bfc5-870033da4c8a.png)
+ sellers or shops
 
 
 ![image](https://user-images.githubusercontent.com/98686183/152652142-0893ec60-a14e-4958-8fe5-011c39b28d93.png)
