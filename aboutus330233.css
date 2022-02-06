@@ -1,0 +1,123 @@
+.aboutus330233-container {
+  min-height: 100vh;
+}
+.aboutus330233-aboutus330233 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(179, 2, 2, 0.5);
+}
+.aboutus330233-text {
+  top: 59px;
+  left: 554px;
+  color: rgba(255, 255, 255, 1);
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.aboutus330233-text01 {
+  top: 245px;
+  left: 0px;
+  color: rgba(255, 255, 255, 1);
+  width: 1440px;
+  height: 854px;
+  position: absolute;
+  font-size: 55px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Peralta;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.aboutus330233-backbutton359128 {
+  top: 69px;
+  left: 1135px;
+  width: 220px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.aboutus330233-image {
+  width: 80px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.aboutus330233-text11 {
+  color: rgba(6, 38, 101, 1);
+  width: 152px;
+  height: 63px;
+  font-size: 50px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+}
+.aboutus330233-svg {
+  top: 64px;
+  left: 1339px;
+  width: 83;
+  height: 74;
+  position: absolute;
+}
+.aboutus330233-menubutton359133 {
+  top: 81px;
+  left: 26px;
+  width: 44px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.aboutus330233-image1 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.aboutus330233-image2 {
+  width: 44px;
+  height: 6px;
+  margin: 0 0 8px 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.aboutus330233-image3 {
+  width: 44px;
+  height: 6px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
