@@ -2,7 +2,7 @@
 An Ideal Site for An Ideal Pet
 
 We used HTML, CSS and Javascript(used the <script> element for javascript). We used HTML, CSS and Javascript for making the website and used figma for ideas.
-The code was used in Visual Studio Code, We hope this site would please you, and we would look forward to update the site.
+The code was used in Visual Studio Code, We hope this site would help you, and we look forward to making the site better.
  
   
 Cheers
