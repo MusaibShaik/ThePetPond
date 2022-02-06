@@ -105,9 +105,15 @@
               class="homepage12-image6"
             />
           </button>
-          <script type="text/javascript">
-            document.getElementById("myButton").onclick = function () {
+         <script>
+            document.getElementbyId("myButton").onmouseover = function() {mouseOver()};
+              document.getElementById("myButton").onmouseout = function() {mouseOut()};
+              function mouseOver() {
+            document.getElementById("myButton").onmouseover = function () {
               location.href = "menu8128.html";
+              function mouseOut() {
+                document.getElementById("myButton").onmouseout = function () {
+                  location.href = "menu8128.html";
             };
           </script>
         
