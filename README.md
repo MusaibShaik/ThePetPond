@@ -23,7 +23,8 @@ login page
 mainmenu
 
 ![image](https://user-images.githubusercontent.com/98686183/152667697-45027158-6aac-4af3-abac-b247807a9b93.png)
-buy or shop
+sellers or shops
+
 
 ![image](https://user-images.githubusercontent.com/98686183/152652142-0893ec60-a14e-4958-8fe5-011c39b28d93.png)
 shops
