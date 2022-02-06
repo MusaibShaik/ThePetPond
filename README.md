@@ -1,6 +1,13 @@
 # ThePetPond
 An Ideal Site for An Ideal Pet
 
+We used HTML, CSS and Javascript(used the <script> element for javascript). We had used figma for making the templates, and used HTML, CSS and Javascript for making interactions.
+The code was used in Visual Studio Code, We hope this site would please you, and we would look forward to update the site.
+ 
+  
+Cheers
+-ThePetPond Team
+
 
 
 ![image](https://user-images.githubusercontent.com/98686183/152651883-b46cd193-4232-4d76-9257-436efd1afdea.png)
