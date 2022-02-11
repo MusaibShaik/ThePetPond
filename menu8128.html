@@ -45,14 +45,34 @@
       <div class="menu8128-container">
         <div class="menu8128-menu8128">
           <div class="menu8128-frame613714">
-            <span class="menu8128-text">HOME</span>
+            <span id="hme"class="menu8128-text">HOME</span>
+            <script type="text/javascript">
+              document.getElementById("hme").onclick = function() {
+                location.href ="homepage.html";
+                };
+            </script>
           </div>
           <div class="menu8128-frame713716">
-            <span class="menu8128-text1">ABOUT US</span>
+            <span id="aboutus" class="menu8128-text1">ABOUT US</span>
+            <script type="text/javascript">
+              document.getElementById("aboutus").onclick = function() {
+                location.href ="aboutus330233.html";
+                };
+              </script>
           </div>
-          <span class="menu8128-text2">BUY OR SELL PETS</span>
-          <span class="menu8128-text3">MAIN MENU</span>
-          <button id="button3" class="cross">
+          <span id="b/s" class="menu8128-text2">BUY OR SELL PETS</span>
+          <script type="text/javascript">
+            document.getElementById("b/s").onclick = function () {
+              location.href = "map1218.html";
+            };
+          </script>
+
+<span id="main" class="menu8128-text3">MAIN MENU</span>
+<script type="text/javascript">
+  document.getElementById("main").onclick = function () {
+    location.href = "mainmenu1128.html";
+  };
+</script>
           <img
             src="public/playground_assets/Rectangle116438154-xu19-200h.png"
             alt="Rectangle116438154"
@@ -68,4 +88,5 @@
     </div>
   </body>
 </html>
+
 
